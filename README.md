@@ -1,9 +1,9 @@
-freedrone
+bsd-sonarr
 =========
 
-This is my attempt at a standardized rc-script for NzbDrone on FreeBSD. 
+This is my attempt at a standardized rc-script for Sonarr on FreeBSD. 
 
-* This uses a datafolder in the home-folder of the designated user. This can be changed, but do NOT put it in the NzbDrone folder, since this might be overwritten on updates. It's better to put it somewhere like /usr/local/nzbdrone/ or even in /etc/nzbdrone. 
+* This uses a datafolder in the home-folder of the designated user. This can be changed, but do NOT put it in the NzbDrone folder, since this might be overwritten on updates. It's better to put it somewhere like /usr/local/sonarr/ or even in /etc/sonarr. 
 
 * DO NOT RUN AS ROOT!
 
